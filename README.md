@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a passionate AI and ML engineer Here, you'll f
 
 <!-- About Me -->
 ## About Me
-- 🌍 Location: [Visakhpatnam]
-- 💼 Currently working on: [Deep Learning]
-- 💬 Ask me about: [Machine Learning, web development, Competitive Programming, python, C++]
-- 📫 How to reach me: [kattaphanendrasairam@gmail.com]
+- 🌍 Location: Visakhpatnam
+- 💼 Currently working on: Deep Learning
+- 💬 Ask me about: Machine Learning, web development, Competitive Programming, python, C++
+- 📫 How to reach me: kattaphanendrasairam@gmail.com
 
 <!-- Languages and Tools -->
 ## Languages and Tools
