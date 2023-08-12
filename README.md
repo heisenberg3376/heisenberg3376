@@ -43,8 +43,8 @@ This is a Machine Learning Project which predicts the risk of lung cancer. Based
 
 <!-- Blogs and Tutorials -->
 ## Portfolio
-Check out some of my Portfolio:
-- [Click Here](heisenberg3376.github.io/PhanendraPortfolio.github.io/)
+Check out my Portfolio:
+- [Click Here](https://heisenberg3376.github.io/PhanendraPortfolio.github.io/)
 
 
 <!-- Connect with Me -->
