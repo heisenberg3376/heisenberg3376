@@ -2,7 +2,7 @@
 # Hi there, I'm Phanendra Sai Ram! 👋
 
 <!-- Introduction -->
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] who loves diving into [Your Interests]. Here, you'll find a showcase of my projects, tutorials, and a glimpse into my journey.
+Welcome to my GitHub profile! I'm a passionate AI and ML engineer Here, you'll find a showcase of my projects, and a glimpse into my journey.
 
 <!-- Badges (GitHub Stats, Social Media) -->
 [![GitHub followers](https://img.shields.io/github/followers/heisenberg3376?label=Follow&style=social)](https://github.com/heisenberg3376)
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] who loves 
 <!-- Languages and Tools -->
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+<!--[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()-->
 
 <!-- Add more badges for languages, tools, and frameworks -->
 
